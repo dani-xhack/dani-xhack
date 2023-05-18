@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dani-xhack
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in frontend development and AI
 - 🌱 I’m currently learning in https://www.freecodecamp.org/learn/
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open sours projects
 - 📫 How to reach me: xhack.ui@gmail.com
 
 <!---
